@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[https://nova-ai-agent.netlify.app](https://nova-ai-agent.netlify.app)**
+👉 **https://unrivaled-monstera-6eca17.netlify.app/**
 
 ---
 
@@ -85,7 +85,7 @@ const GROQ_API_KEY = 'gsk_your_key_here'
 npm run dev
 ```
 
-Open 👉https://unrivaled-monstera-6eca17.netlify.app/
+Open 👉 **http://localhost:5173** 🎉
 
 ---
 
